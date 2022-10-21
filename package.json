@@ -1,0 +1,16 @@
+{
+"name": "abajoker",
+"theme": "aba joker",
+"version": "7.9.8",
+"description": "aba joker ทางเข้าหลักเว็บพนันเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
+"keywords": [
+"aba joker",
+"aba joker เครดิตฟรี",
+"aba joker ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/abajoker",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
